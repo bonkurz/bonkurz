@@ -91,7 +91,7 @@ footer{
 	font-size: 20px;
 	margin-left: 10px;
 	margin-right: 10px;
-	color: yellow;
+	color: lightgrey;
 	padding-bottom: 0px;
 }
 .yellow:hover{
@@ -140,6 +140,7 @@ a:hover{
 	padding-bottom: 30px;
 
 }
+
 
 
 
