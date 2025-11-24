@@ -128,7 +128,7 @@ a:hover{
 }
 .motto{
 	background-color: maroon;
-	color: yellow;
+	color: lightgrey;
 	border-radius: 30px;
 	width: 85%;
 	height: 100px;
@@ -140,6 +140,7 @@ a:hover{
 	padding-bottom: 30px;
 
 }
+
 
 
 
