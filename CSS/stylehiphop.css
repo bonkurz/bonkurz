@@ -47,7 +47,7 @@ li{
 	float: left;
 }
 li a{
-	color: orange;
+	color: lightgrey;
 	background: maroon;
 	width: 100%;
 	display: block;
@@ -140,5 +140,6 @@ a:hover{
 	padding-bottom: 30px;
 
 }
+
 
 
